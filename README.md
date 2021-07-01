@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @vaish1460
-- 👀 I’m interested in Blockchain.
+- 👋 Hi, I’m Vaishnavi Gawali
+- 👀 I’m interested in Data science
